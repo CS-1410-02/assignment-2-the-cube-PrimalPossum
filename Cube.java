@@ -3,6 +3,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+//Feedback
+//   Looks great! I recognize some of this code and it looks like you finished it off beautifully so great job!
+
 public class Cube {
 
   static String[][] cube = {{
@@ -390,6 +393,8 @@ public class Cube {
             //For the life of me I just cannot figure out how to turn an element of an 
             //ArrayList into something that can be used as an argument, but the rest
             //of the cube is functional!
+            //
+            //Ah you don't need to do that just print out the elements and you are good so I'll count it as a win!
 
             break;
             case"q":
